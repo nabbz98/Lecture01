@@ -1,0 +1,30 @@
+[33mcommit c30e9414ad3cad0dc3115f15719974e0d6e9fb98[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 6b61357 1e33f8d
+Author: Nabeel Shah <n.s-@outlook.com>
+Date:   Fri May 15 02:13:15 2020 +0100
+
+    Fixed merge
+
+[33mcommit 6b61357844302f2334e76709904494a70cc6fdbb[m
+Author: Nabeel Shah <n.s-@outlook.com>
+Date:   Fri May 15 02:03:03 2020 +0100
+
+    added 3rd line
+
+[33mcommit 1e33f8d9e2fcec7080ae53ef3846336ccf977557[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: nabbz98 <63935276+nabbz98@users.noreply.github.com>
+Date:   Fri May 15 02:00:35 2020 +0100
+
+    Update hello.html
+
+[33mcommit 6971c6d1a7e954195053192b928558c083596913[m
+Author: nabbz98 <63935276+nabbz98@users.noreply.github.com>
+Date:   Fri May 15 01:54:36 2020 +0100
+
+    Update hello.html
+
+[33mcommit 3898a1bc751707d10637a0f0ab203627fb101bdd[m
+Author: Nabeel Shah <n.s-@outlook.com>
+Date:   Fri May 15 01:53:28 2020 +0100
+
+    start of programme
